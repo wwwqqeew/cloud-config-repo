@@ -27,3 +27,5 @@ spring.datasource.tomcat.test-on-borrow=true
 mysqldb.datasource.url=jdbc\:mysql\://191.168.230.45\:3306/test?useUnicode\=true&characterEncoding\=utf-8
 mysqldb.datasource.username=root
 mysqldb.datasource.password=root
+
+url = jdbc:mysql://191.168.230.45:3306/test?useUnicode=true&characterEncoding=utf-8
